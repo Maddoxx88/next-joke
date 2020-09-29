@@ -3,6 +3,9 @@
 <img src="https://drive.google.com/uc?export=view&id=1wyExc7ALtqAPZo-YsGIm44pjRMcEmwgt" width="450">
 </p>
 <p align="center">
+  Read, Share, Enjoy the Next Joke. Built with Flutter.
+</p>
+<p align="center">
   <a href="https://drive.google.com/file/d/1f5WP1f3-MRZ5JUZmKP5b-lkV7I2yXGKz/view?usp=sharing">
     <img src="https://img.shields.io/badge/apk-demo-blue" width="100">
   </a>
@@ -26,15 +29,24 @@ Keep on getting endless amount of jokes with just a click. You can even share th
 
 ## Features
 
-A few of the things you can do with NextJoke:
-
-* Read unlimited jokes
+* BLoC State Management
+* Unlimited API Fetch
 * Tweak UI Theme
-* Share a Joke
+* Joke Sharing
+* Other awesome features yet to be implemented
 
 ## Feedback
 
 Feel free to send me feedback on [Twitter](https://twitter.com/sunitshirke_88) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
+
+## Packages Used
+
+- [http](https://pub.dev/packages/http) - To make HTTP requests
+- [google_fonts](https://pub.dev/packages/google_fonts) - Display Custom Fonts
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc) - BLoC Management
+- [equatable](https://pub.dev/packages/equatable) - To compare objects
+- [flutter_spinkit](https://pub.dev/packages/flutter_spinkit) - Animated Loading Indicator
+- [esys_flutter_share](https://pub.dev/packages/esys_flutter_share) - Used for Sharing the Joke to all available applications
 
 ## Build Process
 
