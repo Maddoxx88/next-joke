@@ -15,6 +15,7 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Packages Used](#packages-used)
 - [Feedback](#feedback)
 - [Build Process](#build-process)
 - [License](#license)
@@ -35,10 +36,6 @@ Keep on getting endless amount of jokes with just a click. You can even share th
 * Joke Sharing
 * Other awesome features yet to be implemented
 
-## Feedback
-
-Feel free to send me feedback on [Twitter](https://twitter.com/sunitshirke_88) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
-
 ## Packages Used
 
 - [http](https://pub.dev/packages/http) - To make HTTP requests
@@ -47,6 +44,10 @@ Feel free to send me feedback on [Twitter](https://twitter.com/sunitshirke_88) o
 - [equatable](https://pub.dev/packages/equatable) - To compare objects
 - [flutter_spinkit](https://pub.dev/packages/flutter_spinkit) - Animated Loading Indicator
 - [esys_flutter_share](https://pub.dev/packages/esys_flutter_share) - Used for Sharing the Joke to all available applications
+
+## Feedback
+
+Feel free to send me feedback on [Twitter](https://twitter.com/sunitshirke_88) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
 
 ## Build Process
 
