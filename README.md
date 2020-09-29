@@ -47,7 +47,7 @@ Keep on getting endless amount of jokes with just a click. You can even share th
 
 ## Feedback
 
-Feel free to send me feedback on [Twitter](https://twitter.com/sunitshirke_88) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
+Feel free to send me feedback on [Twitter](https://twitter.com/sunitshirke_88) or [file an issue](https://github.com/Maddoxx88/next-joke/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
 
 ## Build Process
 
