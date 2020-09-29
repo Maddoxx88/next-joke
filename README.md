@@ -27,7 +27,8 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) ![Status](
+https://img.shields.io/badge/status-active-success?style=flat-square)
 
 Keep on getting endless amount of jokes with just a click. You can even share the joke to your friends if you like it. Also you can, if you want, change the color theme of your current UI to explore some great color combinations.
 
@@ -71,5 +72,8 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Acknowledgments
 
-Thanks to [@15Dkatz](https://github.com/15Dkatz) for making this awesome [Random Joke API](https://github.com/15Dkatz/official_joke_api).
+- Thanks to [@15Dkatz](https://github.com/15Dkatz) for making this awesome [Random Joke API](https://github.com/15Dkatz/official_joke_api).
+- Star Badge - [Animated Github Badges](https://github.com/acervenky/animated-github-badges/blob/master/README.md)
+
+## Give it a <a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35"></a>  if you like it!
 
