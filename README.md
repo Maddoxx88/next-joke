@@ -9,6 +9,7 @@
   <a href="https://drive.google.com/file/d/1f5WP1f3-MRZ5JUZmKP5b-lkV7I2yXGKz/view?usp=sharing">
     <img src="https://img.shields.io/badge/apk-demo-blue" width="100">
   </a>
+    <img src="https://img.shields.io/badge/version-v0.5-green" width="120">
 </p>
 
 #### Initial Widget on CodeAppRun:
