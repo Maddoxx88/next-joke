@@ -1,21 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:next_joke_bloc/bloc/joke_bloc.dart';
 
-
-class NextJokeBtn extends StatefulWidget {
-  final VoidCallback onJokeChanged;
+class ChangeColorBtn extends StatefulWidget {
+  final VoidCallback onColorChanged;
   var bgColor;
   var textColor;
 
-  NextJokeBtn({this.onJokeChanged, this.textColor, this.bgColor});
-
+  ChangeColorBtn({this.onColorChanged, this.textColor, this.bgColor});
   @override
-  _NextJokeBtnState createState() => _NextJokeBtnState();
+  _ChangeColorBtnState createState() => _ChangeColorBtnState();
 }
 
-class _NextJokeBtnState extends State<NextJokeBtn> {
-
+class _ChangeColorBtnState extends State<ChangeColorBtn> {
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -25,8 +21,8 @@ class _NextJokeBtnState extends State<NextJokeBtn> {
         shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(30.0)),
         padding: EdgeInsets.all(10),
-        icon: Icon(Icons.sync, color: widget.bgColor),
-        label: Text('Next Joke',
+        icon: Icon(Icons.color_lens, color: widget.bgColor),
+        label: Text('Change Color',
           style: GoogleFonts.lora(
               textStyle: TextStyle(
                   color: widget.bgColor,
@@ -35,7 +31,7 @@ class _NextJokeBtnState extends State<NextJokeBtn> {
               )
           ),),
         color: widget.textColor,
-        onPressed: () => widget.onJokeChanged()
+        onPressed: () => widget.onColorChanged()
       ),
     );
   }

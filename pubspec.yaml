@@ -1,5 +1,5 @@
-name: thenextjoke
-description: A Flutter app which generates random joke and changes UI colors on each joke.
+name: next_joke_bloc
+description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
@@ -25,7 +25,10 @@ dependencies:
     sdk: flutter
   http:
   google_fonts:
-  esys_flutter_share: ^1.0.2
+  flutter_bloc:
+  equatable:
+  flutter_spinkit:
+  esys_flutter_share: 
   cupertino_icons: ^0.1.3
 
 dev_dependencies:
@@ -39,7 +42,6 @@ flutter_icons:
   image_path_android: "assets/launcher/icon.png"
   adaptive_icon_background: "assets/launcher/background.png"
   adaptive_icon_foreground: "assets/launcher/foreground.png"
-
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
