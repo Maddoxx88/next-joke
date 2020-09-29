@@ -14,8 +14,7 @@
 - [Features](#features)
 - [Feedback](#feedback)
 - [Build Process](#build-process)
-- [Backers](#backers-)
-- [Sponsors](#sponsors-)
+- [License](#license-)
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
