@@ -77,4 +77,3 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Give it a <a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35"></a>  if you like it!
 
-[![HitCount](http://hits.dwyl.com/Maddoxx88/next-joke.svg)](http://hits.dwyl.com/Maddoxx88/next-joke)
